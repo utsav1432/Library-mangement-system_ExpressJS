@@ -1,0 +1,26 @@
+{
+  "name": "library-mangement-system_expressjs",
+  "version": "1.0.0",
+  "description": "This is a library management API Backend for the management of user and the books",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/utsav1432/Library-mangement-system_ExpressJS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/utsav1432/Library-mangement-system_ExpressJS/issues"
+  },
+  "homepage": "https://github.com/utsav1432/Library-mangement-system_ExpressJS#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}

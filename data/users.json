@@ -1,0 +1,61 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "John",
+            "surname": "Doe",
+            "email": "user@gmail.com",
+            "issuedBook": "1",
+            "issuedDate": "01/09/2025",
+            "returnDate": "15/09/2025",
+            "subscriptionType": "Premium",
+            "subscriptionDate": "01/08/2025",
+            "subscriptionExpiry": "01/08/2026"
+        },
+        {
+            "id": 2,
+            "name": "Emma",
+            "surname": "Smith",
+            "email": "user@gmail.com",
+            "issuedBook": "3",
+            "issuedDate": "28/08/2025",
+            "returnDate": "12/09/2025",
+            "subscriptionType": "Standard",
+            "subscriptionDate": "15/07/2025",
+            "subscriptionExpiry": "15/01/2026"
+        },
+        {
+            "id": 3,
+            "name": "Michael",
+            "surname": "Johnson",
+            "email": "user@gmail.com",
+            "issuedBook": "7",
+            "issuedDate": "02/09/2025",
+            "returnDate": "16/09/2025",
+            "subscriptionType": "Premium",
+            "subscriptionDate": "01/06/2025",
+            "subscriptionExpiry": "01/06/2026"
+        },
+        {
+            "id": 4,
+            "name": "Sarah",
+            "surname": "Williams",
+            "email": "user@gmail.com",
+            "issuedBook": "10",
+            "issuedDate": "30/08/2025",
+            "returnDate": "13/09/2025",
+            "subscriptionType": "Basic",
+            "subscriptionDate": "20/08/2025",
+            "subscriptionExpiry": "20/11/2025"
+        },
+        {
+            "id": 5,
+            "name": "David",
+            "surname": "Brown",
+            "email": "user@gmail.com",
+            "subscriptionType": "Standard",
+            "subscriptionDate": "10/08/2025",
+            "subscriptionExpiry": "10/04/2026"
+        }
+    ]
+}

@@ -1,0 +1,84 @@
+{
+    "books": [
+        {
+            "id": 1,
+            "name": "Atomic Habits",
+            "author": "James Clear",
+            "genre": "Self-Help",
+            "price": "$11.98",
+            "publisher": "Avery"
+        },
+        {
+            "id": 2,
+            "name": "The Alchemist",
+            "author": "Paulo Coelho",
+            "genre": "Fiction",
+            "price": "$9.99",
+            "publisher": "HarperOne"
+        },
+        {
+            "id": 3,
+            "name": "To Kill a Mockingbird",
+            "author": "Harper Lee",
+            "genre": "Classic",
+            "price": "$7.99",
+            "publisher": "Harper Perennial"
+        },
+        {
+            "id": 4,
+            "name": "1984",
+            "author": "George Orwell",
+            "genre": "Dystopian",
+            "price": "$8.99",
+            "publisher": "Secker & Warburg"
+        },
+        {
+            "id": 5,
+            "name": "The Great Gatsby",
+            "author": "F. Scott Fitzgerald",
+            "genre": "Classic",
+            "price": "$6.99",
+            "publisher": "Scribner"
+        },
+        {
+            "id": 6,
+            "name": "Harry Potter and the Sorcerer's Stone",
+            "author": "J.K. Rowling",
+            "genre": "Fantasy",
+            "price": "$10.99",
+            "publisher": "Scholastic"
+        },
+        {
+            "id": 7,
+            "name": "The Hobbit",
+            "author": "J.R.R. Tolkien",
+            "genre": "Fantasy",
+            "price": "$12.50",
+            "publisher": "George Allen & Unwin"
+        },
+        {
+            "id": 8,
+            "name": "Pride and Prejudice",
+            "author": "Jane Austen",
+            "genre": "Romance",
+            "price": "$5.99",
+            "publisher": "T. Egerton"
+        },
+        {
+            "id": 9,
+            "name": "The Da Vinci Code",
+            "author": "Dan Brown",
+            "genre": "Mystery",
+            "price": "$9.49",
+            "publisher": "Doubleday"
+        },
+        {
+            "id": 10,
+            "name": "The Catcher in the Rye",
+            "author": "J.D. Salinger",
+            "genre": "Fiction",
+            "price": "$8.25",
+            "publisher": "Little, Brown and Company"
+        }
+    ]
+}
