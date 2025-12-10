@@ -5,48 +5,44 @@
             "name": "John",
             "surname": "Doe",
             "email": "user@gmail.com",
-            "issuedBook": "1",
+            "issuedBookId": 1,
             "issuedDate": "01/09/2025",
-            "returnDate": "15/09/2025",
+            "returnDate": "02/09/2025",
             "subscriptionType": "Premium",
-            "subscriptionDate": "01/08/2025",
-            "subscriptionExpiry": "01/08/2026"
+            "subscriptionDate": "01/09/2025"
         },
         {
             "id": 2,
             "name": "Emma",
             "surname": "Smith",
             "email": "user@gmail.com",
-            "issuedBook": "3",
-            "issuedDate": "28/08/2025",
-            "returnDate": "12/09/2025",
+            "issuedBookId": 3,
+            "issuedDate": "04/05/2025",
+            "returnDate": "25/05/2025",
             "subscriptionType": "Standard",
-            "subscriptionDate": "15/07/2025",
-            "subscriptionExpiry": "15/01/2026"
+            "subscriptionDate": "28/05/2025"
         },
         {
             "id": 3,
             "name": "Michael",
             "surname": "Johnson",
             "email": "user@gmail.com",
-            "issuedBook": "7",
+            "issuedBookId": 7,
             "issuedDate": "02/09/2025",
-            "returnDate": "16/09/2025",
+            "returnDate": "03/09/2025",
             "subscriptionType": "Premium",
-            "subscriptionDate": "01/06/2025",
-            "subscriptionExpiry": "01/06/2026"
+            "subscriptionDate": "01/06/2025"
         },
         {
             "id": 4,
             "name": "Sarah",
             "surname": "Williams",
             "email": "user@gmail.com",
-            "issuedBook": "10",
+            "issuedBookId": 10,
             "issuedDate": "30/08/2025",
-            "returnDate": "13/09/2025",
+            "returnDate": "01/09/2025",
             "subscriptionType": "Basic",
-            "subscriptionDate": "20/08/2025",
-            "subscriptionExpiry": "20/11/2025"
+            "subscriptionDate": "30/08/2025"
         },
         {
             "id": 5,
@@ -54,8 +50,7 @@
             "surname": "Brown",
             "email": "user@gmail.com",
             "subscriptionType": "Standard",
-            "subscriptionDate": "10/08/2025",
-            "subscriptionExpiry": "10/04/2026"
+            "subscriptionDate": "10/08/2025"
         }
     ]
 }
